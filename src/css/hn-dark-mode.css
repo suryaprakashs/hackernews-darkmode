@@ -1,0 +1,21 @@
+body {   
+    background: #000;    
+}
+
+table#hnmain {
+    background: black;
+	color: #828282;
+}
+
+table#hnmain > tbody > tr:first-child > td {
+    background: black;
+	color: #828282;
+}
+
+a:link {
+    color: #828282 !important;
+}
+
+.comment span {
+	color: #828282 !important;	
+}
